@@ -1,1 +1,21 @@
+body{
+  background-color: yellow;
+  color: blue;
+  font-family: helvetica, sans-serif;
+  margin: 10% 2%;
+  
+}
+.experience-header {
+  text-transform: uppercase;
+  border-top: 2px dotted orange;
+  border-bottom: 2px dotted orange;
+  background-color: rgba(400,400,100,0.9)
+}
 
+.education-header {
+  text-align: center;
+  text-transform: uppercase;
+  border-top: 2px dotted orange;
+  border-bottom: 2px dotted orange;
+  background-color: rgba(400,400,100,0.9)
+}
