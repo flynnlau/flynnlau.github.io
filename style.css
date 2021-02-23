@@ -1,5 +1,5 @@
 body{
-  background-image: url"(flynnlau.github.io/forhppostcard.jpeg");
+  background-image: url("flynnlau.github.io/forhppostcard.jpeg");
   color: blue;
   font-family: helvetica, sans-serif;
   margin: 10% 2%;
@@ -9,15 +9,24 @@ body{
   text-transform: uppercase;
   border-top: 2px dotted orange;
   border-bottom: 2px dotted orange;
-  background-color: rgba(400,400,100,0.9)
+  background-color: rgba(0,400,0,0.3)
 }
 
 .education-header {
-  text-align: center;
+  text-align: left;
   text-transform: uppercase;
   border-top: 2px dotted orange;
   border-bottom: 2px dotted orange;
-  background-color: rgba(400,400,100,0.9)
+  background-color: rgba(0,400,0,0.3)
+}
+
+h6{
+  line-height: .1%;
+  font-size: 12px;
+  text-indent: 30px;
+}
+h2{
+  font-size: 14px;
 }
 img{
   max-width: 100%;
