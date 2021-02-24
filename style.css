@@ -11,11 +11,11 @@ body{
   margin-top: 40%;
   margin-bottom: 10%;
 }
+
 .experience-header {
   text-transform: uppercase;
   border-top: 2px groove orange;
   border-bottom: 2px groove orange;
-  background-color: white)
 }
 
 .education-header {
@@ -23,7 +23,6 @@ body{
   text-transform: uppercase;
   border-top: 2px groove orange;
   border-bottom: 2px groove orange;
-  background-color: white)
 }
 
 .exhibitions-header {
@@ -31,7 +30,6 @@ body{
   text-transform: uppercase;
   border-top: 2px groove orange;
   border-bottom: 2px groove orange;
-  background-color: white)
 }
 
 h6{
