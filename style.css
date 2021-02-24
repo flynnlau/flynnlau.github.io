@@ -1,6 +1,6 @@
 body{
   background-attachment: fixed;
-  background-size: contain;
+  background-size: cover;
   color: blue;
   font-family: helvetica, sans-serif;
   margin-left: 20%;
