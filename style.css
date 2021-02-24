@@ -10,16 +10,16 @@ body{
 }
 .experience-header {
   text-transform: uppercase;
-  border-top: 2px dotted orange;
-  border-bottom: 2px dotted orange;
+  border-top: 2px groove orange;
+  border-bottom: 2px groove orange;
   background-color: white)
 }
 
 .education-header {
   text-align: left;
   text-transform: uppercase;
-  border-top: 2px dotted orange;
-  border-bottom: 2px dotted orange;
+  border-top: 2px groove orange;
+  border-bottom: 2px groove orange;
   background-color: white)
 }
 
